@@ -1,0 +1,14 @@
+The information of metrics. Note:The left of colon is the category name of metrics, and the right is the specific metrics.
+
+Procedure Information :  Executable Lines  Basic Blocks  Ave. Block Length  Procedure Entries  Procedure Exits 
+
+Comments Associated with Procedures (% of total) :  Total Comments  In Headers  In Declarations  In Executable Code  Blank Comments 
+
+Ratio of Comments to Executable lines (%) :  Executable Lines  Total Comments(%)  In Headers(%)  In Decl.(%)  In Code(%) 
+
+Complexity Metrics :  Knots  Cyclomatic Complexity  Essential Knots  Ess. Cycl. Complexity  Structured Proc (SPV) 
+
+Loop/Interval Analysis :  Number of Loops  Nesting Depth  Order 1 Intervals  Max. Int. Nesting  Reducible (Intervals) 
+
+Dataflow Information :  Globals in Procedure  File Fan in  Fan Out   
+
